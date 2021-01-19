@@ -9,14 +9,14 @@ To run a project, use
 and run the created executable from your command line
 Information on how to use each project is found in their respective folders.
 
-# [MUD](/mud)
+# [MUD](src/mud)
 Multi-User-Dungeon. A text based world where users can create accounts and interact on a server. Essentially a shell of an online text-based mmorpg.
 
-# [MapReduce](/mapreduce)
+# [MapReduce](src/mapreduce)
 A distributed system to spread large jobs across multiple worker nodes. 
 
-# [Paxos](/paxos)
+# [Paxos](src/paxos)
 *Paxos is a family of protocols for solving consensus in a network of unreliable or fallible processors*. This program stores consistant key value pairs across multiple machines.  
 
-# [Chord](/chord)
+# [Chord](src/chord)
 A distributed hash table. 
