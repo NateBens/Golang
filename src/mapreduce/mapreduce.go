@@ -2,7 +2,7 @@ package main
 
 import (
 	"log"
-	"mapreduce"
+	"./mapreduce"
 	"strconv"
 	"strings"
 	"unicode"
